@@ -1,3 +1,3 @@
 function repeatTest(){
-    repeat(s,3);
+    repeat("chaine",3);
 }
