@@ -1,3 +1,3 @@
 function repeatTest(){
-    repeat("chaine",3);
+    console.log(repeat("foo", 3)); // => foofoofoo
 }
