@@ -8,3 +8,8 @@ function truncate(s,n){
 for(let i = 0; i<(s.length)/2; i++){
 if 
 }*/
+function swapCase(s){
+    for(let i = 0; i<(s.length)/2; i++){
+        if (s[i] == ){}
+}
+}
